@@ -20,7 +20,7 @@ form {
     margin-left: 10%;
     display: inline-block;
     position: absolute;
-    top: 30%;
+    top: 20%;
     left: 30%;
     height: 400px;
     background-color: #87e2f9;
@@ -29,4 +29,10 @@ form {
     height: 50%;
     width: 50%;
 }
-
+#subject{
+    height: 150px;
+    width: 150px;
+}
+#submit{
+    top: 150px;
+}
