@@ -1,8 +1,8 @@
 body{
-    background-image: url(./img/7a19c0e85ab3eaa85eb53acf84852c5d.jpg);
+    background-image: url(../img/7a19c0e85ab3eaa85eb53acf84852c5d.jpg);
 }
 .container-fluid{
-    background-color: #87e2f9;
+    background-color:#fff;
     font-size: 25px;
     display: flex;
     justify-content:flex-end;
@@ -11,7 +11,7 @@ body{
     text-decoration: none;
     color: black;
 }
-#footer a{
+#footer {
     display: flex;
     font-size: 20px;
     margin: 180px 40px 0px 0px;
@@ -19,6 +19,8 @@ body{
     font-style: italic;
     background-color: padding-box;
     justify-content: end;
+    background-color: rgb(238, 239, 240);
+    border-radius: 12PX;
 }
 #logo{
     border-radius: 100%;
