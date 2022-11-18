@@ -1,29 +1,9 @@
 body{
     background-image: url(../img/imagenfondocontacto.jpg);
 }
-.container-fluid{
-    background-color: #fff;
-    font-size: 25px;
-    display: flex;
-    justify-content:flex-end;
-}
 #menu{
     text-decoration: none;
     color: black;
-}
-
-form {
-    border: 5px solid;
-    border-radius: 9px;
-    padding: 5px;
-    color: #d60000;
-    margin-left: 10%;
-    display: inline-block;
-    position: absolute;
-    top: 20%;
-    left: 30%;
-    height: 400px;
-    background-color: #87e2f9;
 }
 #formulario{
     height: 50%;
@@ -46,4 +26,18 @@ form {
     justify-content: end;
     background-color: rgb(238, 239, 240);
     border-radius: 12PX;
+}
+form {
+    border: 5px solid;
+    border-radius: 9px;
+    padding: 5px;
+    color: #720606;
+    margin-left: 10%;
+    display: inline-block;
+    position: absolute;
+    top: 20%;
+    left: 30%;
+    width: 250px;
+    background-color: antiquewhite;
+    opacity: 82%;
 }
