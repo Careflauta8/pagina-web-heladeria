@@ -36,3 +36,14 @@ form {
 #submit{
     top: 150px;
 }
+#footer {
+    display: flex;
+    font-size: 20px;
+    margin: 640px 40px 0px 0px;
+    text-decoration:none;
+    font-style: italic;
+    background-color: padding-box;
+    justify-content: end;
+    background-color: rgb(238, 239, 240);
+    border-radius: 12PX;
+}
