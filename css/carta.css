@@ -2,12 +2,20 @@ body{
     background-image: url(../img/imagenfondocarta.jpg);
 }
 .container-fluid{
-    background-color:#fff;
     font-size: 25px;
-    display: flex;
-    justify-content:flex-end;
 }
 #menu{
     text-decoration: none;
     color: black;
+}
+#footer {
+    display: flex;
+    font-size: 20px;
+    margin: 640px 40px 0px 0px;
+    text-decoration:none;
+    font-style: italic;
+    background-color: padding-box;
+    justify-content: end;
+    background-color: rgb(238, 239, 240);
+    border-radius: 12PX;
 }
