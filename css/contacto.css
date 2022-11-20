@@ -1,17 +1,21 @@
-body{
+body {
     background-image: url(../img/imagenfondocontacto.jpg);
 }
-#menu{
+
+#menu {
     text-decoration: none;
     color: black;
 }
-#subject{
+
+#subject {
     height: 150px;
     width: 150px;
 }
-#submit{
+
+#submit {
     top: 150px;
 }
+
 #footer {
     display: flex;
     font-size: 20px;
@@ -21,6 +25,7 @@ body{
     background-color: rgb(238, 239, 240);
     border-radius: 12PX;
 }
+
 #formulario {
     border: 5px solid;
     border-radius: 9px;
@@ -31,8 +36,8 @@ body{
     position: absolute;
     top: 20%;
     left: 30%;
-    width: 255px;
-    height: 53%;
+    width: 230px;
+    height: 52%;
     background-color: antiquewhite;
     opacity: 82%;
 }
