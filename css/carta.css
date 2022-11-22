@@ -19,10 +19,7 @@ body{
     background-color: rgb(238, 239, 240);
     border-radius: 12PX;
 }
-#hel{
-    height: 490px;
-    border-radius: 45px;
-}
+
 h1{
     display:flex;
     justify-content: center;
@@ -39,6 +36,7 @@ h3{
     opacity: 85%;
     border-radius: 5px;
     box-shadow: 6px 6px 6px 6px rgb(60, 59, 59);
+    padding: 10px;
 }
 p{
     font-size: 18px;
@@ -47,14 +45,17 @@ p{
     opacity: 85%;
     border-radius: 5px;
     box-shadow: 6px 6px 6px 6px rgb(60, 59, 59);
+    padding: 10px;
 }
 #bola{
+    display:grid;
+    align-items: center;
     height: 220px;
-    width: 350px;
     border-radius: 45px;
     opacity: 90%;
     border: 3px solid black;
     box-shadow: 6px 6px 6px 6px rgb(60, 59, 59);
+    width: 350px;
 }
 #dosbolas{
     height: 220px;
@@ -78,7 +79,7 @@ p{
     border-radius: 45px;
     opacity: 90%;
     border: 3px solid black;
-    box-shadow: 6px 6px 6px 6px rgb(60, 59, 59);
+    box-shadow: 6px 6px 6px 6px rgb(60, 59, 59);   
 }
 #especial{
     height: 220px;
@@ -104,3 +105,4 @@ p{
     border: 3px solid black;
     box-shadow: 6px 6px 6px 6px rgb(60, 59, 59);
 }
+

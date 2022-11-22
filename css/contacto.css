@@ -6,38 +6,23 @@ body {
     text-decoration: none;
     color: black;
 }
-
-#subject {
-    height: 150px;
-    width: 150px;
-}
-
-#submit {
-    top: 150px;
-}
-
 #footer {
-    display: flex;
     font-size: 20px;
     margin: 640px 40px 0px 0px;
     text-decoration-line: none;
     font-style: italic;
     background-color: rgb(238, 239, 240);
     border-radius: 12PX;
+    top: -100px;
 }
-
-#formulario {
-    border: 5px solid;
-    border-radius: 9px;
-    padding: 5px;
-    color: #720606;
-    margin-left: 10%;
-    display: inline-block;
-    position: absolute;
-    top: 20%;
-    left: 30%;
-    width: 230px;
-    height: 52%;
-    background-color: antiquewhite;
-    opacity: 82%;
+#formulario{
+    border: 5px solid black;
+    padding: 10px;
+    background-color: #9befef;
+    opacity: 85%;
+    margin: 20px;
+    padding: 40px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
 }
